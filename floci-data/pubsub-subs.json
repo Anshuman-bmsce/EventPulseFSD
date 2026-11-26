@@ -1,0 +1,13 @@
+{
+  "projects/eventpulse-demo/subscriptions/eventpulse-consumer" : {
+    "name" : "projects/eventpulse-demo/subscriptions/eventpulse-consumer",
+    "creationId" : "a536dd88-b151-49fa-ba44-83343eff0403",
+    "topic" : "projects/eventpulse-demo/topics/eventpulse-events",
+    "ackDeadlineSeconds" : 10,
+    "retainAckedMessages" : false,
+    "maxDeliveryAttempts" : 0,
+    "enableMessageOrdering" : false,
+    "enableExactlyOnceDelivery" : false,
+    "detached" : false
+  }
+}

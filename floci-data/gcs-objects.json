@@ -1,0 +1,54 @@
+{
+  "eventpulse-submissions\u0000submissions/STU101/CLOUD-101/EVT-7942ba35-1b88-404e-be57-28422be62286.pdf" : {
+    "kind" : "storage#object",
+    "id" : "eventpulse-submissions/submissions/STU101/CLOUD-101/EVT-7942ba35-1b88-404e-be57-28422be62286.pdf/1795706666567",
+    "selfLink" : "http://floci-gcp:4588/storage/v1/b/eventpulse-submissions/o/submissions%2FSTU101%2FCLOUD-101%2FEVT-7942ba35-1b88-404e-be57-28422be62286.pdf",
+    "name" : "submissions/STU101/CLOUD-101/EVT-7942ba35-1b88-404e-be57-28422be62286.pdf",
+    "bucket" : "eventpulse-submissions",
+    "generation" : "1795706666567",
+    "metageneration" : "1",
+    "contentType" : "application/pdf",
+    "storageClass" : "STANDARD",
+    "size" : "288134",
+    "timeCreated" : "2026-11-26T15:24:26.567666Z",
+    "updated" : "2026-11-26T15:24:26.567666Z",
+    "crc32c" : "ZHe7kw==",
+    "md5Hash" : "ben+Fqf335GDI31MLZAwgA==",
+    "mediaLink" : "http://floci-gcp:4588/storage/v1/b/eventpulse-submissions/o/submissions%2FSTU101%2FCLOUD-101%2FEVT-7942ba35-1b88-404e-be57-28422be62286.pdf?alt=media&generation=1795706666567",
+    "etag" : "ben+Fqf335GDI31MLZAwgA==",
+    "cacheControl" : "private, no-store",
+    "metadata" : {
+      "student_id" : "STU101",
+      "activity_id" : "CLOUD-101",
+      "event_id" : "EVT-7942ba35-1b88-404e-be57-28422be62286",
+      "original_file_name" : "PYQs_SA_26.pdf"
+    },
+    "isLatest" : true
+  },
+  "eventpulse-submissions\u0000submissions/STU101/CLOUD-101/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1.pdf" : {
+    "kind" : "storage#object",
+    "id" : "eventpulse-submissions/submissions/STU101/CLOUD-101/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1.pdf/1795706782074",
+    "selfLink" : "http://floci-gcp:4588/storage/v1/b/eventpulse-submissions/o/submissions%2FSTU101%2FCLOUD-101%2FEVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1.pdf",
+    "name" : "submissions/STU101/CLOUD-101/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1.pdf",
+    "bucket" : "eventpulse-submissions",
+    "generation" : "1795706782074",
+    "metageneration" : "1",
+    "contentType" : "application/pdf",
+    "storageClass" : "STANDARD",
+    "size" : "2483",
+    "timeCreated" : "2026-11-26T15:26:22.074955Z",
+    "updated" : "2026-11-26T15:26:22.074955Z",
+    "crc32c" : "4u5HlA==",
+    "md5Hash" : "/hg98zqdNRcIfNHcqoc6uw==",
+    "mediaLink" : "http://floci-gcp:4588/storage/v1/b/eventpulse-submissions/o/submissions%2FSTU101%2FCLOUD-101%2FEVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1.pdf?alt=media&generation=1795706782074",
+    "etag" : "/hg98zqdNRcIfNHcqoc6uw==",
+    "cacheControl" : "private, no-store",
+    "metadata" : {
+      "student_id" : "STU101",
+      "activity_id" : "CLOUD-101",
+      "event_id" : "EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1",
+      "original_file_name" : "Electricity_Bill_Problem_Analysis.pdf"
+    },
+    "isLatest" : true
+  }
+}

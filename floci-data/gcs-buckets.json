@@ -1,0 +1,21 @@
+{
+  "eventpulse-submissions" : {
+    "kind" : "storage#bucket",
+    "id" : "eventpulse-submissions",
+    "selfLink" : "http://floci-gcp:4588/storage/v1/b/eventpulse-submissions",
+    "name" : "eventpulse-submissions",
+    "projectNumber" : "449926846608",
+    "metageneration" : "1",
+    "location" : "US",
+    "storageClass" : "STANDARD",
+    "timeCreated" : "2026-11-26T15:23:15.916847Z",
+    "updated" : "2026-11-26T15:23:15.916847Z",
+    "etag" : "CAE=",
+    "projectId" : "eventpulse-demo",
+    "softDeletePolicy" : {
+      "retentionDurationSeconds" : "604800",
+      "effectiveTime" : "2026-11-26T15:23:15.917012Z"
+    },
+    "locationType" : "multi-region"
+  }
+}

@@ -1,0 +1,43 @@
+services:
+  floci-gcp:
+    image: floci/floci-gcp:latest
+    ports:
+      - "4588:4588"
+    environment:
+      FLOCI_GCP_HOSTNAME: floci-gcp
+      FLOCI_GCP_BASE_URL: http://floci-gcp:4588
+      FLOCI_GCP_DEFAULT_PROJECT_ID: eventpulse-demo
+      FLOCI_GCP_STORAGE_MODE: hybrid
+      FLOCI_GCP_STORAGE_PERSISTENT_PATH: /app/data
+    volumes:
+      - ./floci-data:/app/data
+    restart: unless-stopped
+
+  backend:
+    build: ./backend
+    environment:
+      PORT: "8081"
+      GOOGLE_CLOUD_PROJECT: eventpulse-demo
+      FIRESTORE_EMULATOR_HOST: floci-gcp:4588
+      PUBSUB_EMULATOR_HOST: floci-gcp:4588
+      STORAGE_EMULATOR_HOST: http://floci-gcp:4588
+      PUBSUB_TOPIC: eventpulse-events
+      PUBSUB_SUBSCRIPTION: eventpulse-consumer
+      SUBMISSIONS_BUCKET: eventpulse-submissions
+      MAX_RETRIES: "3"
+      EVENTPULSE_ADMIN_ID: "EP-ADMIN-2026"
+    ports:
+      - "8081:8081"
+    depends_on:
+      - floci-gcp
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    environment:
+      VITE_API_URL: http://localhost:8081
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+    restart: unless-stopped

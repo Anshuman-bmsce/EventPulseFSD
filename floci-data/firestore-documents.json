@@ -1,0 +1,699 @@
+{
+  "projects/eventpulse-demo/databases/(default)/documents/submission_requests/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1" : {
+    "name" : "projects/eventpulse-demo/databases/(default)/documents/submission_requests/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1",
+    "createTime" : "2026-11-26T15:26:22.079750685Z",
+    "updateTime" : "2026-11-26T15:26:22.123739488Z",
+    "fields" : {
+      "event_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "STU101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "abc",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "activity_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "CLOUD-101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "assignment_title" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "Cloud Computing Fundamentals",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "file_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "Electricity_Bill_Problem_Analysis.pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "file_size" : {
+        "type" : "integer",
+        "booleanValue" : null,
+        "integerValue" : 2483,
+        "doubleValue" : null,
+        "stringValue" : null,
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "content_type" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "application/pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "object_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "submissions/STU101/CLOUD-101/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1.pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "status" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "duplicate",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "notification_title" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "Duplicate submission detected",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "notification_message" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "This assignment has already been submitted. Your new attempt was recorded as a duplicate; the original submission remains unchanged.",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "created_at" : {
+        "type" : "timestamp",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "2026-11-26T15:26:22.079750Z",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "updated_at" : {
+        "type" : "timestamp",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "2026-11-26T15:26:22.123739Z",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "pubsub_message_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "2",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "original_event_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "EVT-7942ba35-1b88-404e-be57-28422be62286",
+        "arrayValue" : null,
+        "mapValue" : null
+      }
+    }
+  },
+  "projects/eventpulse-demo/databases/(default)/documents/processed_events/EVT-7942ba35-1b88-404e-be57-28422be62286" : {
+    "name" : "projects/eventpulse-demo/databases/(default)/documents/processed_events/EVT-7942ba35-1b88-404e-be57-28422be62286",
+    "createTime" : "2026-11-26T15:24:26.634993118Z",
+    "updateTime" : "2026-11-26T15:24:26.634993118Z",
+    "fields" : {
+      "event_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "EVT-7942ba35-1b88-404e-be57-28422be62286",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "event_type" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "assignment_submitted",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "STU101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "activity_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "CLOUD-101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "status" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "processed",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "file_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "PYQs_SA_26.pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "processed_at" : {
+        "type" : "timestamp",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "2026-11-26T15:24:26.634993Z",
+        "arrayValue" : null,
+        "mapValue" : null
+      }
+    }
+  },
+  "projects/eventpulse-demo/databases/(default)/documents/submission_requests/EVT-7942ba35-1b88-404e-be57-28422be62286" : {
+    "name" : "projects/eventpulse-demo/databases/(default)/documents/submission_requests/EVT-7942ba35-1b88-404e-be57-28422be62286",
+    "createTime" : "2026-11-26T15:24:26.582114617Z",
+    "updateTime" : "2026-11-26T15:24:26.634993118Z",
+    "fields" : {
+      "event_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "EVT-7942ba35-1b88-404e-be57-28422be62286",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "STU101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "abc",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "activity_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "CLOUD-101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "assignment_title" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "Cloud Computing Fundamentals",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "file_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "PYQs_SA_26.pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "file_size" : {
+        "type" : "integer",
+        "booleanValue" : null,
+        "integerValue" : 288134,
+        "doubleValue" : null,
+        "stringValue" : null,
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "content_type" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "application/pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "object_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "submissions/STU101/CLOUD-101/EVT-7942ba35-1b88-404e-be57-28422be62286.pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "status" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "processed",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "notification_title" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "Assignment submitted successfully",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "notification_message" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "Your PDF was received, validated and recorded successfully.",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "created_at" : {
+        "type" : "timestamp",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "2026-11-26T15:24:26.582114Z",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "updated_at" : {
+        "type" : "timestamp",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "2026-11-26T15:24:26.634993Z",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "pubsub_message_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "1",
+        "arrayValue" : null,
+        "mapValue" : null
+      }
+    }
+  },
+  "projects/eventpulse-demo/databases/(default)/documents/student_activities/STU101__CLOUD-101" : {
+    "name" : "projects/eventpulse-demo/databases/(default)/documents/student_activities/STU101__CLOUD-101",
+    "createTime" : "2026-11-26T15:24:26.634993118Z",
+    "updateTime" : "2026-11-26T15:24:26.634993118Z",
+    "fields" : {
+      "activity_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "CLOUD-101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "assignment_title" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "Cloud Computing Fundamentals",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "event_type" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "assignment_submitted",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "last_event_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "EVT-7942ba35-1b88-404e-be57-28422be62286",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "status" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "submitted",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "STU101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "abc",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "updated_at" : {
+        "type" : "timestamp",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "2026-11-26T15:24:26.634993Z",
+        "arrayValue" : null,
+        "mapValue" : null
+      }
+    }
+  },
+  "projects/eventpulse-demo/databases/(default)/documents/duplicate_events/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1" : {
+    "name" : "projects/eventpulse-demo/databases/(default)/documents/duplicate_events/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1",
+    "createTime" : "2026-11-26T15:26:22.123739488Z",
+    "updateTime" : "2026-11-26T15:26:22.123739488Z",
+    "fields" : {
+      "event_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "STU101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "activity_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "CLOUD-101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "original_event_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "EVT-7942ba35-1b88-404e-be57-28422be62286",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "file_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "Electricity_Bill_Problem_Analysis.pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "object_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "submissions/STU101/CLOUD-101/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1.pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "status" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "duplicate",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "reason" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "A successful submission already exists for this student and assignment",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "detected_at" : {
+        "type" : "timestamp",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "2026-11-26T15:26:22.123739Z",
+        "arrayValue" : null,
+        "mapValue" : null
+      }
+    }
+  },
+  "projects/eventpulse-demo/databases/(default)/documents/student_submissions/STU101__CLOUD-101" : {
+    "name" : "projects/eventpulse-demo/databases/(default)/documents/student_submissions/STU101__CLOUD-101",
+    "createTime" : "2026-11-26T15:24:26.634993118Z",
+    "updateTime" : "2026-11-26T15:24:26.634993118Z",
+    "fields" : {
+      "event_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "EVT-7942ba35-1b88-404e-be57-28422be62286",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "STU101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "abc",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "activity_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "CLOUD-101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "assignment_title" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "Cloud Computing Fundamentals",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "file_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "PYQs_SA_26.pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "file_size" : {
+        "type" : "integer",
+        "booleanValue" : null,
+        "integerValue" : 288134,
+        "doubleValue" : null,
+        "stringValue" : null,
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "content_type" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "application/pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "object_name" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "submissions/STU101/CLOUD-101/EVT-7942ba35-1b88-404e-be57-28422be62286.pdf",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "status" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "submitted",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "submitted_at" : {
+        "type" : "timestamp",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "2026-11-26T15:24:26.634993Z",
+        "arrayValue" : null,
+        "mapValue" : null
+      }
+    }
+  },
+  "projects/eventpulse-demo/databases/(default)/documents/processed_events/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1" : {
+    "name" : "projects/eventpulse-demo/databases/(default)/documents/processed_events/EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1",
+    "createTime" : "2026-11-26T15:26:22.123739488Z",
+    "updateTime" : "2026-11-26T15:26:22.123739488Z",
+    "fields" : {
+      "event_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "EVT-7153904e-a5f9-4d5f-b8f7-0cd72cd7c1f1",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "event_type" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "assignment_submitted",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "student_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "STU101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "activity_id" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "CLOUD-101",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "status" : {
+        "type" : "string",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "duplicate",
+        "arrayValue" : null,
+        "mapValue" : null
+      },
+      "processed_at" : {
+        "type" : "timestamp",
+        "booleanValue" : null,
+        "integerValue" : null,
+        "doubleValue" : null,
+        "stringValue" : "2026-11-26T15:26:22.123739Z",
+        "arrayValue" : null,
+        "mapValue" : null
+      }
+    }
+  }
+}
